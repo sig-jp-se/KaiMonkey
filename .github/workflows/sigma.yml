@@ -1,4 +1,4 @@
-on: [push]
+# on: [push]
   
 jobs:
   sigma_code_scanning_run_steps:
